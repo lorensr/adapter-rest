@@ -2,9 +2,7 @@
 
 Rest adapter for use with https://github.com/newtoy/toystore. 
 
-<tt>
-ruby examples/server.rb
+<tt>ruby examples/server.rb
 
-ruby examples/rest.rb
-</tt>
+ruby examples/rest.rb</tt>
 
